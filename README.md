@@ -1,1 +1,1 @@
-# ADSBME_MRS_LPN
+# Learning a prior for magnetic resonance spectroscopy
