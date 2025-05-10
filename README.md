@@ -2,6 +2,9 @@
 
 This repository contains code and processing files for the final course project in **Advanced Data Science for Biomedical Engineering**. The project adapts the Learned Proximal Network (LPN) framework for denoising Magnetic Resonance Spectroscopy (MRS) signals using synthetic and real-world data.
 
+### Model Pipeline, Dataset, Training and Evaluation
+`ADSBME_Isha_Dev `: Complete notebook with dataset organization, model training and evaluation
+
 ### Osprey Processing  
 `MRS_Osprey_GE_Gaba.m`: MATLAB code to preprocess GE MRS files from Big GABA  
 `MRS_Osprey_Siemens_Gaba.m`: MATLAB code to preprocess Siemens MRS files from Big GABA  
